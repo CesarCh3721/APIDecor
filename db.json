@@ -1,4 +1,5 @@
-[
+{
+  "productos":  [
     {
         "dataId":1,
         "titulo":"Sala Granada Jgo. 3-2-1",
@@ -28,3 +29,5 @@
         "precio":500
     }
 ]
+
+}
