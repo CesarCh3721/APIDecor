@@ -1,0 +1,23 @@
+[
+    {
+        "dataId":5,
+        "titulo":"Velador Culver",
+        "src":"./images/Velador-Culver.webp",
+        "descripcion":"El velador Culver tienen composición de madera y chapa natural de acacia,con un suave tono albayalde que hace que la veta se vea suavemente blanqueada.",
+        "precio":500
+    },
+    {
+        "dataId":6,
+        "titulo":"Sillon Electrico Reclinable Texas Usb",
+        "src":"./images/Sillon-Electrico-Reclinable-Texas-Usb.webp",
+        "descripcion":"El respaldo contornea el asiento con un toque arquitectónico, y el tapizado de cuero sintético con costura de canal se complementa con elegantes brazos de metal",
+        "precio":500
+    },
+    {
+        "dataId":7,
+        "titulo":"Sala Delphi Light Mod 3P",
+        "src":"https://cdn.shopify.com/s/files/1/2393/8765/products/COL10400DLM31UC393_1_1000x.jpg?v=1613608462",
+        "descripcion":"El estilo y la elegancia resaltan a simple vista en la Sala Delphi. Su diseño único te permitirá recrear un ambiente moderno en tu espacio favorito de casa.",
+        "precio":500
+    }
+]
