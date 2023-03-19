@@ -27,7 +27,21 @@
         "src":"./images/Silla-de-Oficina-Graham-Negra-166.webp",
         "descripcion":"La silla de escritorio Graham gana varios puntos por su estilo moderno. El respaldo  contornea el asiento con un toque arquitectónico, y el tapizado de cuero sintético con costura de canal.",
         "precio":500
+    },
+    {
+        "dataId":5,
+        "titulo":"Velador Culver",
+        "src":"./images/Velador-Culver.webp",
+        "descripcion":"El velador Culver tienen composición de madera y chapa natural de acacia,con un suave tono albayalde que hace que la veta se vea suavemente blanqueada.",
+        "precio":500
+    },
+    {
+        "dataId":6,
+        "titulo":"Sillon Electrico Reclinable Texas Usb",
+        "src":"./images/Sillon-Electrico-Reclinable-Texas-Usb.webp",
+        "descripcion":"El respaldo contornea el asiento con un toque arquitectónico, y el tapizado de cuero sintético con costura de canal se complementa con elegantes brazos de metal",
+        "precio":500
     }
-]
+  ]
 
 }
